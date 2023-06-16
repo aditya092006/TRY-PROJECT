@@ -106,10 +106,4 @@ li{
     display: flex;
     transform: translate(70vw,-130vh);
 }
-button{
-    background-color: transparent;
-    border: none;
-
-}
-
 
