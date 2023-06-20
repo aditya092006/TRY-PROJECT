@@ -8,10 +8,10 @@ document.addEventListener('DOMContentLoaded', function() {
 function hideShow() {
     console.log("HELLO");
     if (display) {
-        div.style.visibility = 'visible';
+        div.style.display = 'flex';
         display = false;
     } else {
-        div.style.visibility = 'hidden';
+        div.style.display = 'hidden';
         display = true;
     }
 }

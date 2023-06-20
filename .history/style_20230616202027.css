@@ -55,7 +55,6 @@ li{
 
     width: 100vw;
     height: 100px;
-
 }
 .glass{
     background: linear-gradient(135deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
@@ -97,9 +96,8 @@ li{
     border-top-right-radius: 20%;
     align-items: center;
     padding-left: 15px;
-    font-size: 30px;
+    font-size: 50px;
     font-family: 'Pathway Gothic One', sans-serif;
-    text-align: center;
 }
 .logo{
     margin-top: 10px;
@@ -111,8 +109,6 @@ li{
 button{
     background-color: transparent;
     border: none;
-    border-radius: 50%;
-    
 
 }
 .change {
@@ -122,6 +118,5 @@ button{
     width: 75px;
     flex-direction: column;
 }
-
 
 
